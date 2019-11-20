@@ -1,5 +1,19 @@
 ---
-title: "Foto-album"
+title: Foto-album
 image: /img/about-jumbotron.jpg
-values:
+plan:
+  - heading: 'Foto nummer 1 '
+    imageUrl: /img/about-direct-sourcing.jpg
+    text: >-
+      de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de
+      uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg.
+      de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de
+      uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg.
+      de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de
+      uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg.
+      de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de
+      uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg.
+      de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de
+      uitleg. de uitleg. de uitleg. de uitleg. de uitleg. de uitleg.
 ---
+
