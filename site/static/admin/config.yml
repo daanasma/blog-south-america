@@ -55,6 +55,23 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
+      - file: "site/content/contact/_index.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Logo, name: logo, widget: image}
+          - {label: Body, name: body, widget: markdown}
+          - label: Contact Entries
+            name: contact_entries
+            widget: list
+            fields:
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Text
+                name: text
+                widget: text
       - file: "site/content/journey/_index.md"
         label: "De reis"
         name: "journey"
@@ -66,15 +83,17 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string},
                                                                  {label: Description, name: description, widget: text},
                                                                  ]}
-          - {label: Main, name: main, widget: string}
+          - {label: Main, name: main, widget: object, fields:[{label: Heading, name: heading, widget: string},
+                                                              {label: Description, name: description, widget: text}
+                                                              ]}
       - file: "site/content/pictures/_index.md"
         label: "Foto's"
         name: "pictures"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - label: Plan
-            name: plan
+          - label: Foto
+            name: foto
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
