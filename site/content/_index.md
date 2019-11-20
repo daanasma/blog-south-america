@@ -1,22 +1,15 @@
 ---
 title: "Snerters in snertland"
 subtitle: Malin en Daan op reis
-image: /img/home-jumbotron.jpg
+image: /img/tayrona_daanmalin.JPG
 blurb:
-    heading: Wat bezielt ons?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Welkom!
+    text: "Well..."
 intro:
     heading: Waar gaan we naartoe?
-    text: "We vertrekken naar het zuiden van Zuid Amerika en reizen van daaruit richting het noorden, langs de westkant van het continent. "
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    text: "We vertrekken naar het zuiden van Zuid Amerika en reizen van daaruit richting het noorden, langs de westkant van het continent. Het beginpunt van onze reis is bekend maar we weten nog niet naar waar ons pad zal leiden. "
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Foto's
+    text: Omdat een foto meer zegt dan 1000 woorden, hebben we er een paar gebundeld voor iedereen die benieuwd is hoe het eruit ziet aan de andere kant van de Atlantische oceaan.
 ---
 

@@ -1,19 +1,14 @@
 ---
 title: "Steun ons"
 logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Als jullie ons graag willen ondersteunen, kan dat op een heel eenvoudige manier.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">Wat moet dat kosten?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Niks! Wanneer je een boeking/aankoop doet via één van deze links,
+betaal je exact dezelfde prijs als je anders zou doen.
+
+Het enige verschil is dat wij - als aangever van de link - een kleine vergoeding krijgen.
+
