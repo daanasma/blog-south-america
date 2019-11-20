@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Steun ons"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location

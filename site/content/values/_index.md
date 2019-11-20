@@ -1,14 +1,10 @@
 ---
-title: "Values"
+title: "Het Plan"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Op avontuur naar Zuid amerika"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      There is coffee species.
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Single origin"
     text: >
