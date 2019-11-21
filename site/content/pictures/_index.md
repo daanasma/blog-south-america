@@ -6,4 +6,3 @@ foto:
     imageUrl: /img/about-sustainable-farming.jpg
     text: tekst
 ---
-
