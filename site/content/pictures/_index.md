@@ -1,7 +1,7 @@
 ---
 title: Foto-album
 image: /img/about-jumbotron.jpg
-foto:
+values:
   - heading: titel
     imageUrl: /img/about-sustainable-farming.jpg
     text: tekst
